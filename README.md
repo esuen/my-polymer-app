@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Polymer App Toolbox - Starter Kit
 
 [![Build Status](https://travis-ci.org/PolymerElements/polymer-starter-kit.svg?branch=master)](https://travis-ci.org/PolymerElements/polymer-starter-kit)
@@ -86,3 +87,7 @@ of the application.  Each new demand-loaded fragment should be added to the
 list of `fragments` in the included `polymer.json` file.  This will ensure
 those components and their dependencies are added to the list of pre-cached
 components (and will have bundles created in the fallback `bundled` build).
+=======
+# my-polymer-app
+my-polymer-app, getting started project from polymer-project.org
+>>>>>>> b6c4321e742092edf7531c3d8f255512ae1e35d8
